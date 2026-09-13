@@ -1,0 +1,6 @@
+{
+  "name": "Ask ME",
+  "description": "Professional social platform featuring community Q&A, feeds, creator analytics, active contacts messaging, and professional growth tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
